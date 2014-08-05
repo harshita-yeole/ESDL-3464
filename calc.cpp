@@ -3,4 +3,6 @@
 void main()
 {
   cout<<"welcome to github";
-  }
+
+  cout<<"hello";
+}
